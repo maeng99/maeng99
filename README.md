@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=Maeng&fontAlign=68&fontAlignY=36&desc=AI Developer&descAlign=88.5&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=Maeng&fontAlign=68&fontAlignY=36&desc=AI_Developer&descAlign=88.5&descAlignY=50&animation=twinkling)
 
 [![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur) ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=&nbsp;&nbsp;Hello+There!👋;&nbsp;&nbsp;Welcome+To+My+Github✨&height=100&size=32&color=1cff54)
 
